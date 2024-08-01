@@ -1,7 +1,7 @@
 ### Hi there, I'm Afonso 👋
 
 ## 🚀 About Me
-I'm a Junior Data Engineer at Mercadão finishing a BSc in Information Systems from Nova Information Management School. I'm passionate about data engineering, data science, information systems, and the impact they have on organizations at an operational level.
+I'm a Data Engineer with a BSc in Information Systems from Nova Information Management School. I'm passionate about data engineering, data science, information systems, and the impact they have on organizations at an operational level.
 
 ## 🎯 Skills
 - Data Engineering
@@ -9,21 +9,8 @@ I'm a Junior Data Engineer at Mercadão finishing a BSc in Information Systems f
 - Information Systems
 - Business Management
 
-## 👨‍💻 Experience
-- Junior Data Engineer at Mercadão
-
-## 🎓 Education
-- BSc in Information Systems, Nova IMS
-- Summer School in Business, IESE Business School
-- Summer School in Business, AESE Business School
-- Erasmus at Nicolaus Copernicus University in the field of Economics and Management
-- Strategy Course, University of Eastern Finland
-
-## 📚 Projects
-- Packen - A startup that aimed to redefine logistics with its unique concept of Logistics as a Service. Packen's goal was to repurpose the capacity of various operators to facilitate swift deliveries. Despite its innovative approach, the project was not deployed, as during it's development, several big players started creating very similar services.
-
 ## 🌱 Interests
-- ETL
+- Data Engineering
 - Microsystems
 - Databases
 - Business Management
